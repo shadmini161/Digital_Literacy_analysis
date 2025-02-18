@@ -24,6 +24,7 @@ Analyzing the effectiveness of digital literacy programs.
 Gaining insights into learner behavior and progress.
 
 # Features:
+
 1. Data Exploration and Preprocessing:
    
 Loading Data: Using pandas to read the dataset (CSV, Excel, etc.).
@@ -31,6 +32,7 @@ Loading Data: Using pandas to read the dataset (CSV, Excel, etc.).
 Overview of Data: Displaying dataset structure using .info(), .describe(), and .head().
 
 Handling Missing Values: Identifying and filling or removing missing values.
+
 2. Exploratory Data Analysis (EDA):
    
 Demographic Insights: Visualizing distributions of age, gender, education level, and employment status.
@@ -38,11 +40,16 @@ Demographic Insights: Visualizing distributions of age, gender, education level,
 Training Engagement Analysis: Examining module completion rates, session counts, and time spent.
 
 Score Improvement Analysis: Comparing age groups and technical knowledge for digital literacy scores using line plots and heatmaps.
+
 3. Data Visualization:
    
+   
 Bar Charts & Pie Charts
+
 Box Plots & Histograms
+
 Heatmaps
+
 Line Charts
 
 # Dependencies
