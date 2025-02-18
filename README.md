@@ -48,4 +48,11 @@ Bar Charts & Pie Charts
 Box Plots & Histograms
 
 Heatmaps
+
 Line Charts
+
+# Dependencies
+
+Python 3.x
+
+Jupyter Notebook
